@@ -719,6 +719,7 @@ main {
                 margin-left: 18px;
         }
 
+   
 
         nav ul {
                 flex-wrap: nowrap;
@@ -727,6 +728,7 @@ main {
 
 
         }
+
 
         .guitarrasindex {
 
@@ -778,14 +780,11 @@ main {
         font-size: 70px;
 }
 
-.arriba a {
+.ultimosingresos{
 
-        display: none;
-    }
+        font-size: 76px;
+}
 
-    .logoFooter{
-            display: none
-    }
 
 
 
@@ -835,7 +834,7 @@ main {
         
         .titulo{
 
-                font-size: 93px;
+                font-size: 92px;
                
         }
 
@@ -913,9 +912,9 @@ main {
                 margin-left: 35px;
         }
       
+        .titulo{
 
-        .titulo {
-                font-size: 85px;
+                font-size: 80px;
         }
 
         .logoFooter img{
@@ -943,28 +942,28 @@ main {
                                      "footer";
 
                 grid-template-columns: 100%;
-                grid-template-rows: 690px 4500px 900px;
+                grid-template-rows: 750px 4500px 900px;
         }
 
+
+  
 
         .footerGuitarrasE, .footerGuitarrasA{
 
                 justify-content: center;
         }
+        
+        .titulo{
+
+                font-size: 76px;
+        }
+        
 
         .redes{
                 margin-right: 90px;
         }
 
-        .arriba a {
 
-                display: none;
-            }
-        
-            .logoFooter{
-                    display: none
-            }
-        
             .redes{
 
                 margin-left: 100px;
@@ -977,7 +976,7 @@ main {
 
 @media screen and (max-width:700px) {
 
-        .bajos {
+        .bajos{
                 min-height: 150vh;
 
                 grid-template-areas: "header"
@@ -994,10 +993,6 @@ main {
                 align-items: center;
         }
 
-
-        .titulo {
-                font-size: 85px;
-        }
 
         .logoFooter img{
 
@@ -1189,9 +1184,7 @@ main {
 
 
 
-        .titulo {
-                font-size: 85px;
-        }
+  
 
         .logoFooter img{
 
@@ -1224,15 +1217,7 @@ main {
                 grid-template-rows: 650px 1fr 1550px;
         }
 
-        .logoFooter{
-                
-                display: none;
-        }
-
-        .arriba{
-
-                display: none;
-        }
+      
 
         .footerContacto{
 
