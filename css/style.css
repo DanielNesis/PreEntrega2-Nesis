@@ -770,7 +770,7 @@ main {
                                      "footer";
 
                 grid-template-columns: 100%;
-                grid-template-rows: 790px 4050px 1950px;
+                grid-template-rows: 790px 4150px 1950px;
 
         }
 
@@ -782,7 +782,7 @@ main {
 
 .ultimosingresos{
 
-        font-size: 76px;
+        font-size: 67px;
 }
 
 
@@ -942,7 +942,7 @@ main {
                                      "footer";
 
                 grid-template-columns: 100%;
-                grid-template-rows: 750px 4500px 900px;
+                grid-template-rows: 750px 4600px 900px;
         }
 
 
@@ -955,7 +955,7 @@ main {
         
         .titulo{
 
-                font-size: 76px;
+                font-size: 63px;
         }
         
 
@@ -1019,7 +1019,7 @@ main {
                         "footer";
 
                 grid-template-columns: 100%;
-                grid-template-rows: 690px 2400px 900px;
+                grid-template-rows: 750px 2400px 900px;
         }
 
 
@@ -1059,7 +1059,7 @@ main {
                                      "footer";
 
                 grid-template-columns: 100%;
-                grid-template-rows: 690px 3500px 900px;
+                grid-template-rows: 750px 3500px 900px;
         }
 
         .logoFooter{
@@ -1114,7 +1114,7 @@ main {
                                       "footer";
 
                 grid-template-columns: 100%;
-                grid-template-rows: 690px 500px 900px;
+                grid-template-rows: 750px 500px 900px;
         }
 
 
@@ -1214,7 +1214,7 @@ main {
                                 "main"
                         "footer";
                 grid-template-columns: 1fr;
-                grid-template-rows: 650px 1fr 1550px;
+                grid-template-rows: 750px 1fr 1550px;
         }
 
       
